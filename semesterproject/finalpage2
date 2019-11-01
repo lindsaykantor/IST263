@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Social Media and Nature</title>
+    <link rel="stylesheet" href="./style1.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container" style="border: 1px solid black;">
+        <header class="site-header">
+                
+                <nav>
+
+                        <ul class="site-nav"> 
+                            <li><a href="hwsemantic.html">Home Page</a></li>
+                            <li><a href="subpage1.html"> Subpage 1</a></li>
+                            <li><a href="subpage2.html">Subpage 2</a></li>
+                        </ul>
+                    </nav>
+
+    
+
+
+        </header>
+        <main>
+        <div class="page-content">
+            <h2> Welcome to page 2</h2>
+        <section class="row">
+            <asidde>
+                <section class="row">
+                    
+                       <article>
+                           <div class="picrow">
+                            <img src="./81674996_f411656f23.jpg" alt="nautre"/>
+                            <p class="piccaption">These images are images of nature that I found on an online site. I liked how they were not found on the typical social media platforms such as Instagram or Facebook.</p>
+                        </div>
+                        <div class="picrow">
+                            <img src="./81674784_faf1ae48ab.jpg" alt="nautre"/>
+                            <p class="piccaption"> You can tell that these images are not as high quaility as those found on other social media platforms that have an app. I feel that the highest quaility photos are found on Instagram.</p>
+                        </div>
+                            <div class="picrow">
+                            <img src="./81674901_8259bd0f2f.jpg" alt="nature"/>
+                            <p class="piccaption">Lastly, this topic has been of great interest to me for a while now. I have always enjoyed taking pictures of nautre and once I found my true passion for social media I was able to combine the two.</p>
+                        </div>
+                            <h2> My opinion</h2>
+                            <div class="pbox">
+                            <p class="opinion"> I feel that using social media to display images of nature that one takes is a great idea. This allows them to keep all of their images in one place for a wide variety of people to see. As seen on the previous page are some of my favorite pictures of nature found on instagram. Using social media also allows people to view your images wihtout even having to know you. There is also a way to use a hashtag when posting on instagram and another great way to find these images is by simply searching the hashtag.  </p>
+                        </div>
+                            <div class="imgbox">
+                            <img src="./IMG_5988.jpg" alt="nautre" class='pg2pic'/>
+                        </div>
+                    </article>
+                    
+                </section>
+                </aside>
+            </section>
+            </div>
+        </main>
+        </div>
+    </body>
+
+</html>
+                    
+                    
+                    
+                    
+                      
