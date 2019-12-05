@@ -1,0 +1,142 @@
+body{
+    background: #f1f1f1;
+    margin: 0 auto;
+    
+}
+
+.container{
+    background: #f1f1f1;
+    margin: 0 auto;
+    padding: 10px;
+    width:80%;
+}
+
+.site-header{
+    background: #f1f1f1;
+}
+h1{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+
+h2{
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+
+ul{
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.picturecontainer{
+    width: 100%; 
+    justify-content: center;
+    display: inline-block;
+}
+
+.site-nav{
+    text-decoration: none;
+    list-style-type: none;
+    background-color: green;
+	width: 97%;
+	display: flex;
+}
+
+.site-nav > li >a{
+    color: black;
+    text-decoration: none;
+
+    display: inline-block;
+    padding: .8em;
+    margin-right: .5em;
+    padding-right: 10em;
+}
+.site-nav > li >a:hover{
+    color: white;
+}
+
+.picture-holder{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.instagram{
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+}
+.picture-holder p{
+    width: 460px;
+    font-size: 25px;
+}
+.page-content{
+   margin: 0 auto;
+    /* This is your problem, I think. Without the margin: 0 auto; rule, this narrower div was displaying to the left of its container.
+    Try adding a margin: 0 auto; rule here to see the effect. There's no real reason to limit this div's width, and in fact 
+    I don't think the div is doing much for you structurally. See related comments in your html file.*/
+}
+
+.col{
+    flex: 1;
+    padding: 5px;
+
+}
+
+.row{
+    display: flex;
+}
+
+.subpage1pic{
+    width: 100%;
+}
+
+.inner{
+	width: 1040px;
+	margin:0px auto;
+}
+
+.picrow{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+
+
+
+.opinion{
+    width: 80%;
+    text-align: center;
+}
+
+.pg2pic{
+    width: 80%;
+    
+}
+
+.pbox{
+    display: flex;
+    justify-content: center;
+}
+.imgbox{
+    display: flex;
+    justify-content: center;
+}
+
+.image{
+    display: inline-block
+}
+
+.caption{
+    display: inline-block;
+    padding-top:150px;
+
+}
+
+.image img {
+    width: 100%
+}
